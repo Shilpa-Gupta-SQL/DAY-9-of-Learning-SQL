@@ -14,3 +14,4 @@ Prevents invalid data from entering the database.
 Connects tables in a relational database.
 Helps in structured queries with JOIN.
 Maintains real-world relationships (e.g., Customer → Orders).
+ 
